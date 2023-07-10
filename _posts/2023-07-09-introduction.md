@@ -1,9 +1,10 @@
 ---
-layout:post
-title:introduction
+layout: post
+title: introduction
+date: 2023-07-9 23:18 +0800
 ---
 
-Now I will give you an introduction to build my personal blog, I used ***GitPages + jeklly*** template *Not Pure Poole* method to achieve that.In this process I used ***SSH*** to transfer local files to GitHub, ***VSCode*** to compile, ***Typora*** to compile the Markdown files.
+Now I will give you an introduction to build my personal blog, I used ***GitPages + jeklly*** template *Not Pure Poole* method to achieve that. In this process I used ***SSH*** to transfer local files to GitHub, ***VSCode*** to compile, ***Typora*** to compile the Markdown files.
 
 ## Installation
 
