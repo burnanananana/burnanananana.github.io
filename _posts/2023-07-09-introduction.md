@@ -4,7 +4,13 @@ title: introduction
 date: 2023-07-9 23:18 +0800
 ---
 
-Now I will give you an introduction to build my personal blog, I used ***GitPages + jeklly*** template *Not Pure Poole* method to achieve that. In this process I used ***SSH*** to transfer local files to GitHub, ***VSCode*** to compile, ***Typora*** to compile the Markdown files.
+> Now I will give you an introduction to build my personal blog, I used ***GitPages + jeklly*** template *Not Pure Poole* method to achieve that. In this process I used ***SSH*** to transfer local files to GitHub, ***VSCode*** to compile, ***Typora*** to compile the Markdown files.
+
+> Through this project, I realized that Github can also be used as a cloud server to run static pages, which is different from the personal web pages I have built before, and only need to set the domain name to the format of GitHub username plus io, which is very novel, and also inspired me to explore how it can be achieved, I chose to present my personal blog with a theme that is biased towards a personal resume, and I considered that I want to be able to continue to use it in my future job search, so I chose a more formal theme. I wanted to be able to continue using it in future job searches, so I chose a more formal theme.
+
+> Of course, I encountered a lot of problems during the project, such as the fact that changes to files uploaded to GitHub could take a few minutes to show up on the web page, which I initially thought was an uploading error. In addition, the page setup had to follow jeklly's specifications, such as post filename, time, formatting, etc. I also had to make sure that the page settings followed jeklly's specifications, such as the name, time, format, etc., and that I was not able to change them in any way.
+
+
 
 ## Installation
 
